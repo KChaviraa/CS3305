@@ -1,8 +1,6 @@
 //  CS 3305
 //  Test cases
-//
-//  (do not modify this file)
-//
+
 
 #include "hashtable.h"
 

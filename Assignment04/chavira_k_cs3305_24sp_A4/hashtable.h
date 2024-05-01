@@ -1,8 +1,5 @@
 //  CS 3305
 //  header file
-//
-//  (do not modify this file)
-//
 
 #ifndef HASHTABLE_H
 #define HASHTABLE_H
